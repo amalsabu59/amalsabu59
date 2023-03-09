@@ -5,7 +5,7 @@
 
 
 
-  <img align="left" alt="GIF" src="https://github.com/ananthanir/ananthanir/blob/main/assets/coding.gif" width="350" height="250" /><br>
+  <img align="left" alt="GIF" src="https://github.com/amalsabu59/amalsabu59/blob/master/assets/coding.gif" width="350" height="250" /><br>
   ### 🧑‍💻 &nbsp;About Me <br>
 
 
