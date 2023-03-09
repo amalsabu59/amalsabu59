@@ -13,7 +13,7 @@
   &nbsp; 👀 &nbsp; Self-taught Full Stack Web Developer. <br>
   &nbsp; 💻 &nbsp; Passionate about coding, problem-solving. <br>
   &nbsp; 🎓 &nbsp; Enthusiastic about blockchain technology. <br>
-  &nbsp;  🧠 &nbsp; I'm learning Blockchain Development
+  &nbsp;  🧠 &nbsp; I'm learning Blockchain Development.<br>
   &nbsp; 🌱 &nbsp; Strong believer in continuous learning and staying up-to-date. <br>
     &nbsp; 💬 &nbsp; Feel free to reach out to me.  <br>
   <!-- &nbsp; ✍️ &nbsp; Experienced in building a range of projects from simple websites to complex web applications -->
