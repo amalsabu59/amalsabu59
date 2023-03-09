@@ -10,10 +10,10 @@
 
 
 
-  &nbsp; 👀 &nbsp; Self-taught Full Stack Web Developer.
-  &nbsp; 💻 &nbsp; Passionate about coding, problem-solving.
-  &nbsp; 🎓 &nbsp; Enthusiastic about blockchain technology.
-  &nbsp; 🌱 &nbsp; Strong believer in continuous learning and staying up-to-date with the latest tech developments
+  &nbsp; 👀 &nbsp; Self-taught Full Stack Web Developer. <br><br>
+  &nbsp; 💻 &nbsp; Passionate about coding, problem-solving. <br><br>
+  &nbsp; 🎓 &nbsp; Enthusiastic about blockchain technology. <br><br>
+  &nbsp; 🌱 &nbsp; Strong believer in continuous learning and staying up-to-date with the latest tech developments. <br><br>
   <!-- &nbsp; ✍️ &nbsp; Experienced in building a range of projects from simple websites to complex web applications -->
   &nbsp; 💬 &nbsp; Feel free to reach out to me.  <br><br>
   &nbsp; [![Twitter](https://img.shields.io/twitter/follow/amalsabu59?style=social)](https://twitter.com/amalsabu59)
