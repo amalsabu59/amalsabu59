@@ -10,7 +10,7 @@
 
 
 
-  &nbsp; 👀 &nbsp; Self-taught Full Stack Web Developer. <br><br>
+  &nbsp; 👀 &nbsp; Self-taught Full Stack Web Developer. <br>
   &nbsp; 💻 &nbsp; Passionate about coding, problem-solving. <br><br>
   &nbsp; 🎓 &nbsp; Enthusiastic about blockchain technology. <br><br>
   &nbsp; 🌱 &nbsp; Strong believer in continuous learning and staying up-to-date with the latest tech developments. <br><br>
